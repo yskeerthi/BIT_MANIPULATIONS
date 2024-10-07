@@ -1,4 +1,3 @@
-Here are bit manipulation tricks for the points listed in the image:
 
 1. **Check if the given number is even or odd**:  
    Use the bitwise AND operator:
